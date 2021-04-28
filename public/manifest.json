@@ -1,0 +1,25 @@
+{
+  "short_name": "Jak Novotny",
+  "name": "Jack Novotny",
+  "icons": [
+    {
+      "src": "jn.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "jn.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "jn.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#A4161A",
+  "background_color": "#0B090A"
+}
