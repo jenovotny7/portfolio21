@@ -12,7 +12,7 @@ function About() {
         <div className="bio-image"></div>
         <article className="pt-4 px-3 bio-text">
           <p className="py-2">
-            I am a Full Stack Developer with a background in Supply Chain Management.
+            Full Stack Developer with a background in Supply Chain Management.
   
           </p>
           <p className="py-2">
