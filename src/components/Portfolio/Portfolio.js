@@ -25,25 +25,25 @@ function Portfolio() {
             rLink: "https://github.com/jenovotny7/Quiz-API-Portfolio"
         },
         {
-            title: "Express Notes",
-            details: "A full-stack CMS app for posting articles and opinions about tech relatated news. Utilizes MVC structure, node, Express, MySQL and Sequelize. Deployed to Heroku.",
-            highlights: "Express MySQL Sequelize",
-            pLink: "",
-            rLink: ""
+            title: "Note-Taker Express",
+            details: "Note Taker App",
+            highlights: "Express",
+            pLink: "https://boiling-tor-92880.herokuapp.com/notes",
+            rLink: "https://github.com/jenovotny7/Express-Notes-Portfolio"
         },
         {
-            title: "GolfHub",
-            details: "Employee Manager is a command line app that interacts with a MySQL database to so that you can easily keep track your company's departments, roles, and employees. Utilizes node, MySQL, inquirer.js.",
-            highlights: "MySQL Node Inquirer",
-            pLink: "",
-            rLink: ""
+            title: "Shopping Cart",
+            details: "",
+            highlights: "",
+            pLink: "https://redux-shoppin.herokuapp.com/",
+            rLink: "https://github.com/jenovotny7/Redux-Shopping"
         },
         {
-          title: "Google Books Search",
+          title: "Google-Book-App",
           details: "A React app with a GraphQL back-end. I converted this from REST to GraphQL on the back-end and front-end. Utilizes apollo-server-express on the back-end and apollo-boost on the front-end. Also utilizes JWT for user authorization.",
           highlights: "React GraphQL Apollo-GraphQL",
           pLink: "",
-          rLink: ""
+          rLink: "https://github.com/jenovotny7/Book-Search-App"
         },
     ]
   return (
